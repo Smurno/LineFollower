@@ -9,21 +9,19 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 <br />
-microcontroller:
+microcontroller: ATmega32u4 (Arduino Leonardo)
 <br />
-motors: 
+motors: micro metal gearmotor 50:1
 <br />
-h-bridge:
+h-bridge: DRV8833
 <br />
-sensors:
+sensors: QTR-8A
 <br />
-batteries:
+batteries: 18650
 <br />
-wireless communication:
-<br />
-distance sensor - motors:
+wireless communication: HC05
 <br />
 weight:
 <br />
-speed: 
+speed: 0.3 m/s
 <br />
